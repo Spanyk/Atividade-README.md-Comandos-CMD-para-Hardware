@@ -9,7 +9,7 @@
 **Manutenção de Hardware, Redes e Sistema Operacional**
 
 ![Autor](https://img.shields.io/badge/Autor-Spanyk%20-blue)
-![Data](https://img.shields.io/badge/Data-15/09/2025%20-red)
+![Data](https://img.shields.io/badge/Data-19/09/2025%20-red)
 ![Github](https://img.shields.io/badge/Github-Spanyk%20-purple)
 
 </div>
