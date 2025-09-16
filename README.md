@@ -14,11 +14,12 @@
 
 </div>
 
-
+```
 ## 🧠 O que aprendi?
 Com esta atividade aprendi a criar e editar arquivos README.md, registrar informações de projetos e documentar comandos úteis do CMD voltados para manutenção de hardware. 
 Também aprendi a organizar informações de forma clara e compartilhá-las em um repositório GitHub.
 
+```
 
 
 <br>
