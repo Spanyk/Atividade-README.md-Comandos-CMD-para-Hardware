@@ -18,7 +18,7 @@
 
 ## O que é um README.md
 <br>
-Um **README.md** é um arquivo de texto, normalmente escrito em **Markdown (.md)**, que serve como **documento principal de apresentação e instruções em um projeto**.
+Um <strong>README.md</strong> é um arquivo de texto, normalmente escrito em <strong>Markdown (.md)</strong>, que serve como <strong>documento principal de apresentação e instruções em um projeto</strong>.
 Ele geralmente aparece na raiz de repositórios (por exemplo, no GitHub, GitLab ou Bitbucket) e é exibido automaticamente na página inicial do projeto.
 Principais funções de um README.md:
 
