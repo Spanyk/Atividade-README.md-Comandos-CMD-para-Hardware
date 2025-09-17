@@ -14,6 +14,28 @@
 
 </div>
 
+## O que é um README.md
+<br>
+Um README.md é um arquivo de texto, normalmente escrito em Markdown (.md), que serve como documento principal de apresentação e instruções em um projeto.
+Ele geralmente aparece na raiz de repositórios (por exemplo, no GitHub, GitLab ou Bitbucket) e é exibido automaticamente na página inicial do projeto.
+Principais funções de um README.md:
+
+- Apresentação do projeto → Explica o que o projeto é, para que serve e seus objetivos.
+- Instruções de instalação e uso → Orienta como configurar o ambiente, instalar dependências e rodar o projeto.
+- Exemplos de uso → Demonstra comandos, trechos de código ou capturas de tela.
+- Documentação básica → Pode incluir arquitetura do sistema, principais funcionalidades e tecnologias utilizadas.
+- Contribuição → Indica como outras pessoas podem colaborar com o projeto.
+- Licença → Especifica sob qual licença o projeto está disponibilizado (MIT, GPL, etc.).
+
+Estrutura comum de um README.md:
+- Título e descrição
+- Status do projeto (em desenvolvimento, estável etc.)
+- Instalação
+- Como usar
+- Tecnologias
+- Contribuindo
+- Licença
+
 ```
 🧠 O que aprendi?
 Com esta atividade aprendi a criar e editar arquivos README.md, registrar informações de projetos e documentar comandos úteis do CMD voltados para manutenção de hardware. 
